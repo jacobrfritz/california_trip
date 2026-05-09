@@ -1,20 +1,29 @@
 # California Trip: Redwoods to the Riviera
 
-## ✈️ Departing Flight: Wednesday, June 17
-**ORD ➔ SFO** | **United UA 246 (Economy)** | **Boeing 757**
+## ✈️ Departing Flight: Tuesday, June 16
+**ORD ➔ SFO** | **United UA 1495 (Economy)** | **Boeing 757**
 
-*   **06:13 AM:** Chicago O'Hare International Airport (ORD)
-*   **08:50 AM:** San Francisco International Airport (SFO)
-*   **Details:** 4 hr 37 min | 504 kg CO2e | $307
+*   **08:09 PM:** Chicago O'Hare International Airport (ORD)
+*   **11:02 PM:** San Francisco International Airport (SFO)
+*   **Details:** 4 hr 53 min | 504 kg CO2e | -8% emissions
 
 > 💡 **Suggestion:** Try to grab a window seat on the right side of the plane. Depending on the approach, you often get fantastic views of the Golden Gate Bridge and the city of San Francisco as you land.
 > 
 > ⚠️ **Caution:** SFO is huge, and you'll need to take the AirTrain to get to the Rental Car Center. Factor in about 30–45 minutes from landing to actually getting behind the wheel.
 
+## Day 0 
+
+Uber to hotel in SFO
+
 ---
 
 ## 🌲 Day 1: Wednesday, June 17 — Redwoods and the Coast
 *To maximize your time, head straight south from the airport into the mountains.*
+
+
+### Early morning - Golden gate bridge
+
+Drive north to the bridge for sightseeing
 
 ### Morning/Early Afternoon — Henry Cowell Redwoods
 Drive south from SFO directly into the Santa Cruz Mountains. Walk the spectacular Redwood Grove Loop Trail to stand among the ancient, towering old-growth trees.
